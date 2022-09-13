@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Features\programmingLanguage\Constans\" />
     <Folder Include="Features\programmingLanguage\Model\" />
-    <Folder Include="Features\programmingLanguage\Rules\" />
     <Folder Include="Features\programmingLanguage\Queries\" />
   </ItemGroup>
 
