@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.programmingLanguage.Commands.CreateProgrammingLanguage
 {
-    public class CreateProgrammingLanguageCommandValidator : AbstractValidator<ProgrammingLanguage>
+    public class CreateProgrammingLanguageCommandValidator : AbstractValidator<CreateProgrammingLanguageCommand>
     {
         public CreateProgrammingLanguageCommandValidator()
         {
